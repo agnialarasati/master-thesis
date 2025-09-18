@@ -14,4 +14,4 @@ These are the codes used for Agnia Larasati's Master's Thesis: Data-Driven State
 
 3. script_simbench_data.py for preprocessing SimBench data.
 4. wandb_configuration.py for searching the best LSTM configuration in wandb.
-5. pf_series_timeseries.csv is the data used for the typical grid, pf_series_timeseries_strong.csv is the data used for the strong grid, and newsimbench_powerflow_results_decweak.csv is the data used for the high-resolution experiment.
+
